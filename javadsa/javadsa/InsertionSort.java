@@ -1,4 +1,4 @@
-package javadsa.algorithms;
+package javadsa;
 
 public class InsertionSort {
     public static int[] insertionSort(int[] array) {
@@ -19,5 +19,4 @@ public class InsertionSort {
 
         return array;
     }
-
 }
