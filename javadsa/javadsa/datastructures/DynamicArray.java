@@ -1,4 +1,4 @@
-package javadsa;
+package javadsa.datastructures;
 
 public class DynamicArray<T> {
     
